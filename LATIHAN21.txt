@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Contoh Web Sederhana</title>
+    </head>
+    <body>
+<h1>Selamat Datang di Web Sederhana Saya</h1>
+<P>Ini adalah contoh penggunaan tag HTML dasar.</P>
+<a href="https://www.example.com">Klik di sini</a> untuk mengunjungi situs contoh.
+<br>
+<P>Jika anda ingin mempelajari lebih lanjut,
+silakan kunjungi<a href="https://www.learnhtml.com"> learnHTML</a>.</P>
+<br>
+<h2>Penawaran Spesial</h2>
+<P>Kini tersedia promo <strong>diskon 20%</strong>untuk semua produk</P>
+<P>Jangan lewatkan kesempatan ini untuk memperoleh perangkat berkualitas.</P>
+<P><u>Berlaku hingga akhir bulan ini.</u></P>
+<br>
+<p>Temukan teknologi masa depan dalam genggaman Anda.</p>
+<h2>Produk Terbaru</h2>
+<div class="product">
+<img src="phone.jpg" alt="Smartphone Futura X1"
+width="300" height="200" title="Futura X1">
+<h3><a href="product1.html">Futura X1 Smartphone</a></h3>
+<p>Alami masa depan dengan Futura X1 yang baru.</p>
+    </body>
+</html>
